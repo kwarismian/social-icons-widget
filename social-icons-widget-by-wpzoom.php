@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Social Icons Widget by WPZOOM
- * Plugin URI: https://www.wpzoom.com/
+ * Plugin Name: Social Icons Widget by WPZOOM and Ackerman McQueen
+ * Plugin URI: https://github.com/kwarismian/social-icons-widget.git
  * Description: Social Icons Widget to displays links to social sharing websites. Supports more than 80 sites and includes 400 icons. Sort icons by Drag & Drop and change their color easily.
- * Author: WPZOOM
- * Author URI: https://www.wpzoom.com/
+ * Author: WPZOOM and Ackerman McQueen
+ * Author URI: https://github.com/kwarismian/social-icons-widget.git
  * Version: 3.0.9
  * License: GPLv2 or later
  * Text Domain: zoom-social-icons-widget
